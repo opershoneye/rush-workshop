@@ -19,9 +19,9 @@ export const projects: Project[] = [
         link: "#",
     },
     {
-        title: "Spot robot fetch",
+        title: "Programming Languages",
         description: "Wrote python code to allow a Spot robot to play fetch using CV.",
-        details: "Python + gRPC + Ultralytics YOLO",
+        details: "Python + HTML + Java",
         link: "#",
     },
 ];
